@@ -1,2 +1,3 @@
 test2新增 stash
 test2 rebase
+test2 merge
