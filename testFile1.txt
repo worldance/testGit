@@ -4,3 +4,4 @@ test2 merge
 test2 commit节点
 test2 commit2节点
 test2 commit3节点
+test2 stage restore测试
