@@ -6,3 +6,6 @@ test2 commit2节点
 test2 commit3节点
 test2 stage restore测试
 test2 stage restore测试1
+
+people commit1
+people commit2
