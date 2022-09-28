@@ -13,3 +13,7 @@ people commit2
 test3 commit1
 test3 commit2
 
+cherry 提交1
+cherry 提交2
+cherry 提交3
+
