@@ -19,3 +19,5 @@ cherry 提交3
 
 
 测试远程仓库有提交时，push时拒绝，pull时是否会先更新在rebase一个新的节点
+
+pull冲突处理2
